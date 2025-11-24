@@ -4,7 +4,7 @@
 This repository contains a full analysis of a pizza restaurant’s sales using an interactive **Power BI dashboard**.  
 The project examines sales performance, product trends, customer behavior, and operational patterns to provide clear, actionable insights.
 
-> 📄 Source: *Pizza Sales Analysis Report.pdf*
+> Source: *Pizza Sales Analysis Report.pdf*
 
 ---
 
